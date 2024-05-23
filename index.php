@@ -40,7 +40,7 @@
 		<div class="archx-slider-side2 position-absolute ul-li">
 			<ul>
 				<li><a href="#">Twitter</a></li>
-				<li><a href="#">Facebook</a></li>
+				<li><a href="https://www.facebook.com/profile.php?id=100076127868819&mibextid=ZbWKwL">Facebook</a></li>
 				<li><a href="https://www.instagram.com/gmcrown_interior/">Instagram</a></li>
 			</ul>
 		</div>
@@ -1008,7 +1008,7 @@
 	<section id="archx-social" class="archx-social-section">
 		<div class="archx-social-content d-flex align-items-center">
 			<div class="archx-social-item">
-				<a href="#">
+				<a href="https://www.facebook.com/profile.php?id=100076127868819&mibextid=ZbWKwL">
 					<i class="fab fa-facebook-f"></i>
 					<span>Facebook</span>
 				</a>
