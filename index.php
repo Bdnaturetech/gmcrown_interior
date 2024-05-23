@@ -68,7 +68,8 @@
 									<a class="d-flex justify-content-center align-items-center" href="#">Check Out <i class="fal fa-long-arrow-right"></i></a>
 								</div>
 								<div class="archx-video-play-btn">
-									<a class="d-flex align-items-center video_box justify-content-center" href="https://www.youtube.com/watch?v=OB_Ok4dZ-dg"><i class="fas fa-play"></i></a>
+								<!-- https://www.youtube.com/watch?v=OB_Ok4dZ-dg -->
+									<a class="d-flex align-items-center video_box justify-content-center" href="#"><i class="fas fa-play"></i></a>
 								</div>
 							</div>
 						</div>
@@ -414,20 +415,20 @@
 						<div class="archx-before-after-tab-btn position-relative ul-li-block">
 							<ul class="nav nav-pills" id="pills-tab" role="tablist">
 								<li class="nav-item" role="presentation">
-									<button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">Theater</button>
+									<button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">Curtain</button>
 								</li>
 								<li class="nav-item" role="presentation">
-									<button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">Architecture</button>
+									<button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">Styling</button>
 								</li>
 								<li class="nav-item" role="presentation">
 									<button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact" aria-selected="false">Designing</button>
 								</li>
-								<li class="nav-item" role="presentation">
+								<!--li class="nav-item" role="presentation">
 									<button class="nav-link" id="interior-tab" data-bs-toggle="pill" data-bs-target="#interior" type="button" role="tab" aria-controls="pills-contact" aria-selected="false">Interior</button>
-								</li>
-								<li class="nav-item" role="presentation">
+								</!--li>
+								<li-- class="nav-item" role="presentation">
 									<button class="nav-link" id="construction-tab" data-bs-toggle="pill" data-bs-target="#construction" type="button" role="tab" aria-controls="pills-contact" aria-selected="false">Construction</button>
-								</li>
+								</li-->
 							</ul>
 						</div>
 					</div>
@@ -601,7 +602,7 @@
 					</div>
 					<div class="col-lg-7">
 						<div class="archx-about-sponsor-scroller">
-							<div class="archx-about-sponsor-wrapper">
+							<!-- <div class="archx-about-sponsor-wrapper">
 								<div class="archx-sponsor-item">
 									<img src="assets/img/sponsor/ar-sp1.png" alt="">
 								</div>
@@ -620,7 +621,7 @@
 								<div class="archx-sponsor-item">
 									<img src="assets/img/sponsor/ar-sp2.png" alt="">
 								</div>
-							</div>
+							</div> -->
 							<div class="archx-about-experience-scoller d-flex">
 								<div class="archx-about-experience text-center headline-2 pera-content d-flex align-items-center justify-content-center wow fadeLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
 									<div class="archx-about-exp-text">

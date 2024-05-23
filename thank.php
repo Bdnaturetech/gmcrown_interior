@@ -138,10 +138,12 @@
                         />
                     </svg>
                 </a>
+                <!-- https://wa.me/message/XBQAU6XM6SRTC1 -->
                 <a 
+                
                     style="color: green;"
                     class="link"
-                    href="https://wa.me/message/XBQAU6XM6SRTC1"
+                    href="https://wa.me/2348028557665" 
                     rel="nofollow"
                     target="_blank"
                 >

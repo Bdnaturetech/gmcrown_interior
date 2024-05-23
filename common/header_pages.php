@@ -26,8 +26,8 @@
                             <a href="">GM glance</a>
                             <ul class="dropdown-menu clearfix">
                                 <li><a href="project">Our Project</a></li>
-                                <li><a href="#">Work With Us</a></li>
-                                <li><a href="#">Refer & Earn</a></li>
+                                <!-- <li><a href="#">Work With Us</a></li>
+                                <li><a href="#">Refer & Earn</a></li> -->
                             </ul>
                         </li>
                         <li><a href="services">Services</a></li>

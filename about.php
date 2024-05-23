@@ -394,36 +394,7 @@
 
 <!-- Start of Sponsor section
 	============================================= -->
-	<section id="arck-sponsor" class="arck-sponsor-section">
-		<div class="container">
-			<div class="arck-sponsor-slider">
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp1.png">
-				</div>
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp2.png">
-				</div>
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp3.png">
-				</div>
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp4.png">
-				</div>
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp5.png">
-				</div>
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp1.png">
-				</div>
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp2.png">
-				</div>
-				<div class="arck-sponsor-slider-item">
-					<img src="assets/img/sponsor/sp3.png">
-				</div>
-			</div>
-		</div>
-	</section>		
+	
 <!-- End of Sponsor section
 	============================================= -->
 

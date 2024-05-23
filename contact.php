@@ -63,9 +63,9 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="arck-contact-page-cta position-relative">
-                            <div class="contact-cta-inner-img position-relative">
+                            <!-- <div class="contact-cta-inner-img position-relative">
                                 <img src="assets/img/about/cn1.jpg" alt="">
-                            </div>
+                            </div> -->
                             <div class="contact-cta-inner-text position-absolute headline pera-content" data-background="assets/img/about/cn-bg.jpg">
                                 <h3>Contact Details</h3>
                                 <div class="arck-video-cta-wrap">
