@@ -1,0 +1,108 @@
+.arck-about-section {
+	overflow: hidden;
+	padding: 130px 0px;
+}
+.arck-about-text-wrapper {
+	padding-top: 30px;
+	max-width: 540px;
+	.about-bg {
+		right: 50px;
+		top: 0px;
+	}
+	.arck-year-experience {
+		padding: 40px 0px;
+		h3 {
+			font-size: 90px;
+			font-weight: 700;
+			padding: 30px 45px;
+			margin-right: 35px;
+			color: var(--main-color);
+			background-color: var(--white-color);
+			box-shadow: 0px 0px 41px 0px rgba(35, 31, 32, 0.1);
+		}
+		p {
+			color: #333333;
+			font-size: 24px;
+			max-width: 145px;
+		}
+	}
+}
+.arck-about-img-wrapper {
+	z-index: 1;
+	.shape1 {
+		z-index: -1;
+		right: -40px;
+		bottom: -40px;
+	}
+}
+.arck-about-section-2 {
+	overflow: hidden;
+	padding: 160px 0 215px;
+	.about-shape-1 {
+		left: 0;
+		z-index: -1;
+		right: 255px;
+		bottom: 125px;
+		margin: 0 auto;
+		text-align: center;
+	}
+}
+.arck-about-text-wrap-2 {
+	padding-top: 25px;
+	padding-left: 40px;
+}
+.about-signature-img {
+	padding-top: 40px;
+	margin-bottom: 60px;
+	.inner-img {
+		width: 120px;
+		height: 100px;
+		overflow: hidden;
+		margin-right: 25px;
+		border-radius: 10px;
+	}
+	.inner-text {
+		h3 {
+			color: var(--black-color);
+			font-size: 18px;
+			font-weight: 600;
+			max-width: 360px;
+			line-height: 1.667;
+		}
+	}
+	.sign-img {
+		right: -45px;
+		bottom: -40px;
+	}
+	.about-author {
+		margin-top: 20px;
+		h4 {
+			color: var(--black-color);
+			font-size: 20px;
+			font-weight: 600;
+			padding-bottom: 5px;
+		}
+		span {
+			font-size: 14px;
+		}
+	}
+}
+.about-page-about-section {
+	padding: 130px 0px 180px;
+}
+.about-page-about-content {
+	.arck-about-img-wrapper .shape1 {
+		left: -40px;
+		right: auto;
+	}
+	.acrk-img-shape2 {
+		top: 0;
+		left: 0;
+		bottom: 0;
+	}
+	.acrk-img-shape1 {
+		right: 0;
+		top: auto;
+		bottom: 0;
+	}
+}

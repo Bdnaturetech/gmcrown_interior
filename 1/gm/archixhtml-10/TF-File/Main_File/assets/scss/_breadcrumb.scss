@@ -1,0 +1,44 @@
+.arck-breadcrumb-section {
+	.background_overlay {
+		opacity: .7;
+		background-color: #030303;
+	}
+	.acrk-img-shape2 {
+		left: 0;
+		bottom: 0;
+	}
+	.acrk-img-shape1 {
+		top: auto;
+		right: 0;
+		bottom: 0;
+	}
+}
+.arck-breadcrumb-content {
+	padding: 310px 0px 235px;
+	h1 {
+		font-size: 60px;
+		font-weight: 600;
+		padding-bottom: 28px;
+		color: var(--white-color);
+	}
+	li {
+		color: var(--white-color);
+		font-weight: 600;
+		margin: 0px 10px;
+		position: relative;
+		text-transform: uppercase;
+		font-family: var(--heading);
+		&:before {
+			top: 0;
+			right: -18px;
+			color: #fff;
+			content: '//';
+			position: absolute;
+		}
+		&:last-child {
+			&:before {
+				display: none;
+			}
+		}
+	}
+}

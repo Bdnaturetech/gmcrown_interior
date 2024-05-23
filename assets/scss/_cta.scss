@@ -1,0 +1,45 @@
+.arck-cta-section {
+	background-attachment: fixed;
+	.background_overlay {
+		background-color: rgba(0, 0, 0, .7);
+	}
+}
+.arck-cta-content {
+	margin: 0 auto;
+	max-width: 770px;
+	padding: 120px 0px 140px;
+	h2 {
+		font-size: 48px;
+		font-weight: 600;
+		color: var(--white-color);
+	}
+	.arck-cta-button-group {
+		margin-top: 50px;
+	}
+	.arck-btn {
+		margin-right: 40px;
+		a {
+			&:before {
+				border: 1px solid var(--white-color);
+			}
+		}
+	}
+	.arck-cta-number {
+		i {
+			color: #fff;
+			width: 60px;	
+			height: 60px;
+			font-size: 25px;
+			line-height: 60px;
+			margin-right: 20px;
+			border-radius: 100%;
+			background-color: var(--main-color);
+		}
+		a {
+			color: var(--white-color);
+			font-weight: 600;
+			font-size: 30px;
+			font-family: var(--heading);
+		}
+	}
+}

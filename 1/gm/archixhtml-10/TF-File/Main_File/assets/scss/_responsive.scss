@@ -1,0 +1,532 @@
+@media screen and (max-width:  1500px) {  
+	.arck-header-section.header-style-one {
+		padding: 25px 20px;
+	}
+	.arck-slider-section-1 {
+		padding: 80px 20px 0px 20px;
+	}
+	.arck-header-section .main-navigation li {
+		margin: 0px 20px;
+	}
+	.arck-header-section.header-style-one .header-cta-social .header-social {
+		margin-left: 20px;
+	}
+	.arck-header-section.header-style-one .header-cta-social .header-social:before {
+		left: 0;
+	}
+	.arck-header-section .dropdown-menu {
+		top: 55px;
+	}
+	.arck-header-section.sticky-on .dropdown-menu {
+		top: 52px;
+	}
+	.arck-main-slider-item .arck-slider-main-text:before {
+		left: -45px;
+		top: -50px;
+	}
+	.arck-main-slider-item .arck-slider-main-text:after {
+		left: -55px;
+		top: -40px;
+	}
+	.arck-video-cta-wrap .video-cta-item .inner-icon {
+		margin-right: 10px;
+	}
+	.arck-video-cta-wrap .video-cta-item .inner-text h3 {
+		font-size: 16px;
+	}
+	.arck-video-cta-wrap .video-cta-item {
+		padding: 20px 15px;
+	}
+	.arck-video-play-wrap {
+		width: 52%;
+	}
+	.arck-appointment-form-wrap {
+		max-width: 530px;
+	}
+}
+@media screen and (max-width:  1280px) {  
+	.arck-main-slider-item .arck-slider-main-text:before,
+	.arck-main-slider-item .arck-slider-main-text:after {
+		display: none;
+	}
+	.arck-header-section.header-style-one .header-cta-social .header-cta {
+		display: none;
+	}
+	.arck-header-section.header-style-one .header-cta-social .header-social:before {
+		display: none;
+	}
+	.arck-project-item .inner-text {
+		max-width: 300px;
+	}
+	.arck-main-slider-area-2 .carousel_nav {
+		display: none;
+	}
+	.arck-main-slider-item-2 {
+		padding: 230px 0px 110px;
+	}
+}
+@media screen and (max-width:  1024px) {  
+	.arck-project-slider-wrapper {
+		padding: 0px 15px;
+	}
+	.arck-project-item .inner-text .project-title-desc p {
+		display: none;
+	}
+	.arck-project-item .inner-text {
+		top: 40px;
+		left: 40px;
+		max-width: 230px;
+	}
+	.arck-project-item .view-more-btn {
+		bottom: 40px;
+	}
+	.arck-video-play-wrap {
+		width: 48%;
+	}
+	.arck-appointment-form-wrap {
+		max-width: 50%;
+	}
+	.arck-video-cta-wrap {
+		flex-wrap: wrap;
+	}
+	.arck-video-cta-wrap .video-cta-item {
+		width: 50%;
+	}
+	.arck-sponsor-section {
+		padding: 70px 0px;
+	}
+	.arck-blog-item-2 .inner-text p,
+	.arck-blog-item .inner-text p { 
+		display: none;
+	}
+	.arck-blog-item-2 .inner-text {
+		padding: 45px 15px 40px;
+	}
+	.about-signature-img .sign-img {
+		right: 0;
+	}
+	.filtr-container-area .grid-size-25 {
+		width: 50%;
+	}
+	.arck-working-skill-text-wrap {
+		padding-top: 0px;
+	}
+	.arck-skill-progress-bar {
+		padding-top: 20px;
+	}
+	.arck-testimonial-appointment-content {
+		.arck-appointment-form-wrap {
+			max-width: 100%;
+		}
+	}
+	.arck-testimonial-appointment-content .arck-appointment-form-wrap {
+		padding-left: 20px;
+	}
+	.arck-main-slider-item-2 .arck-slider-main-text {
+		max-width: 485px;
+	}
+	.arck-main-slider-item-2 .arck-slider-main-text h1 {
+		font-size: 60px;
+	}
+	.arck-slider-section-2 .slider-social {
+		left: 0;
+	}
+}
+@media screen and (max-width:  991px) { 
+	.arck-main-navigation-wrap {
+		display: none;
+	} 
+	.arck-slider-area .slick-dots {
+		right: 30px;
+	}
+	.arck-header-section.header-style-one .header-cta-social {
+		display: none !important;
+	}
+	.mobile_menu_button {
+		display: block;
+	}
+	.no-padding {
+		padding-right: calc(var(--bs-gutter-x)/ 2);
+		padding-left: calc(var(--bs-gutter-x)/ 2);
+	}
+	.arck-about-text-wrapper {
+		margin: 0 auto;
+		margin-bottom: 40px;
+	}
+	.arck-about-img-wrapper,
+	.arck-testimonial-img-wrap {
+		max-width: 570px;
+		margin: 0 auto;
+	}
+	.arck-work-process-item {
+		margin-bottom: 60px;
+	}
+	.arck-work-process-section {
+		padding-bottom: 90px;
+	}
+	.arck-counter-inner-item {
+		margin-bottom: 40px;
+	}
+	.arck-testimonial-text-wrap {
+		padding-left: 0;
+		margin: 0 auto;
+		max-width: 570px;
+	}
+	.arck-blog-item,
+	.arck-blog-item-2 {
+		display: flex;
+		margin: 0 auto;
+		max-width: 770px;
+		align-items: center;
+		margin-bottom: 40px;
+	}
+	.arck-blog-item-wrapper {
+		.row {
+			align-items: center;
+		}
+	}
+	.arck-blog-item-2 .inner-text {
+		padding: 45px 35px 40px;
+	}
+	.arck-footer-widget {
+		margin-bottom: 40px;
+	}
+	.arck-footer-widget .widget-title {
+		padding-bottom: 20px;
+	}
+	.arck-footer-widget-wrapper {
+		padding-bottom: 50px;
+	}
+	.arck-slider-section-2 .arck-slider-img-2 {
+		display: none;
+	}
+	.arck-about-img-wrap-2,
+	.arck-working-skill-text-wrap,
+	.arck-contact-page-cta {
+		margin: 0 auto;
+		max-width: 570px;
+		margin-bottom: 30px;
+	}
+	.arck-about-text-wrap-2,
+	.arck-working-skill-img,
+	.arck-testimonial-appointment-content .arck-appointment-form-wrap,
+	.arck-faq-video-play-wrap,
+	.arck-appointment-form-wrap {
+		margin: 0 auto;
+		padding-left: 0;
+		max-width: 570px;
+	}
+	.arck-pricing-item {
+		margin-bottom: 30px;
+	}
+	.arck-testimonial-appointment:before {
+		display: none;
+	}
+	.arck-testimonial-appointment-content .arck-testimonial-text-wrap {
+		padding-right: 0;
+		padding-bottom: 60px;
+	}
+	.about-page-about-content .arck-about-img-wrapper {
+		margin-bottom: 60px;
+	}
+	.arck-faq-content {
+		margin: 0 auto;
+		margin-bottom: 40px;
+	}
+	.shop-details-text-wrap {
+		padding-left: 0;
+	}
+	.arck-service-details-category {
+		margin-bottom: 40px;
+	}
+	.arck-blog-sidebar {
+		margin-top: 50px;
+	}
+	.arck-contact-page-form {
+		padding-left: 0;
+	}
+	.arck-project-details-img-item {
+		margin-bottom: 30px;
+	}
+	.arck-project-details-text {
+		margin-top: 30px;
+	}
+	.mobile_menu {
+		display: block;
+	}
+	.archx-header-section .header-main-menu-wrapper:before {
+		display: none;
+	}
+}
+@media screen and (max-width:  767px) { 
+	.arck-main-slider-item .arck-slider-main-text h1 {
+		font-size: 60px;
+	}
+	.arck-main-slider-item .arck-slider-main-text {
+		max-width: 530px;
+	}
+	.arck-section-title h2, .arck-section-title-2 h2 {
+		font-size: 40px;
+	}
+	.arck-project-filter-btn li,
+	.arck-project-filter-btn button,
+	.arck-project-filter-btn li,
+	.arck-project-filter-btn button {
+		margin-left: 15px;
+	}
+	.arck-project-top-content {
+		padding-bottom: 40px;
+	}
+	.arck-appointment-form-wrap {
+		max-width: 100%;
+	}
+	.arck-video-play-wrap {
+		width: 100%;
+		height: 500px;
+		margin-top: 50px;
+		position: relative !important;
+	}
+	.arck-video-cta-wrap {
+		flex-wrap: nowrap;
+	}
+	.arck-appointment-video-section {
+		padding-bottom: 0;
+	}
+	.arck-blog-item, .arck-blog-item-2 {
+		margin: 0 auto;
+		display: block;
+		max-width: 370px;
+		margin-bottom: 40px;
+	}
+	.filtr-container-area .grid-sizer,
+	.filtr-container-area .grid-size-50,
+	.filtr-container-area .grid-size-25 {
+		width: 100%;
+	}
+	.arck-blog-details-main-content .arck-blog-share-tag {
+		flex-wrap: wrap;
+	}
+}
+@media screen and (max-width:  680px) {  
+	.arck-main-slider-item .arck-slider-main-text .line-shape {
+		display: none;
+	}
+	.arck-video-cta-wrap {
+		flex-wrap: wrap;
+		position: relative !important;
+	}
+	.arck-video-cta-wrap .video-cta-item {
+		width: 100%;
+	}
+	.arck-video-play-wrap .arck-video-img-wrap {
+		display: block;
+	}
+	.arck-video-play-wrap {
+		height: auto;
+	}
+	.arck-video-play-btn {
+		top: 25%;
+	}
+	.arck-cta-content h2 {
+		font-size: 30px;
+	}
+	.arck-cta-content .arck-cta-button-group {
+		flex-wrap: wrap;
+	}
+	.arck-cta-number {
+		margin-top: 30px;
+	}
+	.arck-cta-content .arck-cta-number i {
+		width: 50px;
+		height: 50px;
+		font-size: 20px;
+		line-height: 50px;
+	}
+	.arck-cta-content .arck-cta-number a {
+		font-size: 20px;
+	}
+	.filtr-container-area .grid_2-size-40,
+	.filtr-container-area .grid_2-size-60,
+	.filtr-container-area .grid_2-sizer {
+		width: 100%;
+	}
+
+}
+@media screen and (max-width:  480px) {  
+	.arck-main-slider-item .arck-slider-main-text h1 {
+		font-size: 40px;
+	}
+	.arck-main-slider-item .arck-slider-main-text {
+		max-width: 310px;
+	}
+	.arck-slider-section-1 {
+		padding: 80px 0px 0px;
+	}
+	.arck-slider-area .slick-dots {
+		right: 15px;
+	}
+	.arck-main-slider-item .arck-slider-main-text h1 {
+		padding-bottom: 30px;
+	}
+	.arck-slider-section-1:before, .arck-slider-section-1:after {
+		display: none;
+	}
+	.arck-main-slider-item {
+		padding: 150px 0px 160px;
+	}
+	.arck-appointment-form-wrap form button, .arck-btn a {
+		height: 50px;
+		width: 150px;
+	}
+	.arck-service-section,
+	.arck-about-section {
+		padding: 60px 0px;
+	}
+	.arck-section-title h2, .arck-section-title-2 h2 {
+		font-size: 30px;
+		padding-bottom: 20px;
+	}
+	.arck-about-text-wrapper .arck-year-experience h3 {
+		font-size: 60px;
+	}
+	.arck-project-top-content {
+		flex-wrap: wrap;
+		padding-bottom: 20px;
+		.arck-section-title {
+			width: 100%;
+			text-align: center;
+			padding-bottom: 20px;
+		}
+	}
+	.arck-project-section {
+		padding: 60px 0px;
+	}
+	.arck-work-process-content {
+		padding-top: 70px;
+	}
+	.arck-work-process-section {
+		padding-bottom: 60px;
+	}
+	.arck-counter-section {
+		padding: 60px 0px 40px;
+	}
+	.arck-appointment-video-section {
+		padding-top: 80px;
+	}
+	.arck-appointment-form-wrap .arck-section-title {
+		padding-bottom: 15px;
+	}
+	.arck-team-section {
+		padding: 60px 0px 30px;
+	}
+	.arck-teestimonial-item .inner-text {
+		font-size: 18px;
+		margin-bottom: 45px;
+	}
+	.arck-blog-section {
+		padding: 60px 0px 35px;
+	}
+	.arck-sponsor-section {
+		padding: 40px 0px;
+	}
+	.arck-footer-widget-wrapper {
+		padding-bottom: 20px;
+	}
+	.arck-main-slider-item-2 .arck-slider-main-text h1 {
+		font-size: 40px;
+		padding-bottom: 10px;
+	}
+	.arck-main-slider-item-2 .arck-slider-main-text p {
+		padding-bottom: 20px;
+	}
+	.arck-btn-2 a {
+		height: 50px;
+		width: 150px;
+	}
+	.arck-about-section-2,
+	.arck-before-after-section,
+	.arck-working-skill-section,
+	.arck-pricing-section,
+	.arck-testimonial-appointment {
+		padding: 60px 0px;
+	}
+	.arck-before-after-content {
+		flex-wrap: wrap;
+	}
+	.arck-before-after-content {
+		padding-top: 20px;
+	}
+	.arck-project-section-2 {
+		padding-top: 40px;
+	}
+	.arck-project-filter-content {
+		padding: 0px 15px;
+	}
+	.arck-project-item-2 .inner-text {
+		bottom: 25px;
+	}
+	.arck-project-item-2:hover .inner-text {
+		left: 25px;
+	}
+	.arck-breadcrumb-content {
+		padding: 175px 0px 140px;
+	}
+	.arck-breadcrumb-section .acrk-img-shape2,
+	.arck-breadcrumb-section .acrk-img-shape1 {
+		display: none;
+	}
+	.arck-breadcrumb-content h1 {
+		font-size: 40px;
+		padding-bottom: 15px;
+	}
+	.about-page-about-section {
+		padding: 60px 0px;
+	}
+	.arck-cta-content,
+	.arck-faq-video-section {
+		padding: 60px 0px;
+	}
+	.arck-faq-video-play-wrap {
+		.arck-video-play-btn {
+			top: 50%;
+		}
+	}
+	.inner-page-padding {
+		padding: 60px 0px;
+	}
+	.shop-details-text-wrap .arck-code-category li {
+		margin-right: 10px;
+	}
+	.shop-details-text-wrap .quantity-btn-area .add-cart-btn a {
+		width: 140px;
+	}
+	.arck-service-details-text-area h3 {
+		font-size: 30px;
+		padding-bottom: 15px;
+	}
+	.arck-blog-details-main-content .arck-blog-details-text-wrap {
+		padding: 50px 20px 20px;
+	}
+	.arck-blog-details-main-content .arck-blog-share-tag .blog-hash-tag a {
+		margin-left: 0;
+	}
+	.arck-blog-details-main-content .arck-blog-share-tag .blog-hash-tag  {
+		margin-top: 15px;
+	}
+	.contact-cta-inner-img {
+		display: none;
+	}
+	.arck-contact-page-cta .contact-cta-inner-text {
+		position: static !important;
+	}
+	.arck-faq-feed-content {
+		padding-top: 30px;
+	}
+	.arck-faq-feed-section {
+		padding: 60px 0px;
+	}
+	.arck-testimonial-feed-section {
+		padding: 60px 0px 20px;
+	}
+
+}

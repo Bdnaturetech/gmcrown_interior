@@ -1,0 +1,63 @@
+.arck-before-after-section {
+	padding: 125px 0px;
+	&:before,
+	&:after {
+		top: 0;
+		left: 0;
+		z-index: -1;
+		width: 100%;
+		content: '';
+		height: 605px;
+		position: absolute;
+		background: url(../img/bg/ba-bg.jpg);
+	}
+	&:after {
+		background: rgba(0, 0, 0, .7);
+	}
+	.arck-section-title-2 {
+		max-width: 480px;
+		h2 {
+			color: var(--white-color);
+		}
+	}
+}
+.arck-before-item {
+	margin-right: 10px;
+}
+.arck-before-after-content {
+	padding-top: 45px;
+
+	.twentytwenty-handle {
+		background-color: var(--main-color);
+		border: none;
+	}
+	.twentytwenty-after-label:before {
+		content: 'AFTER DESIGN';
+	}
+	.twentytwenty-before-label:before {
+		content: 'BEFORE DESIGN';
+	}
+	.twentytwenty-before-label:before, .twentytwenty-after-label:before {
+		top: auto;
+		bottom: 30px;
+		font-size: 12px;
+		font-weight: 500;
+		padding: 0px 15px;
+		line-height: 30px;
+		color: var(--white-color);
+		background-color: var(--main-color);
+	}
+	.twentytwenty-horizontal .twentytwenty-before-label:before {
+		left: 30px;
+	}
+	.twentytwenty-horizontal .twentytwenty-after-label:before {
+		right: 30px;
+	}
+	.twentytwenty-overlay:hover {
+		background-color: transparent;
+	}
+	.twentytwenty-before-label,
+	.twentytwenty-after-label {
+		opacity: 1;
+	}
+}

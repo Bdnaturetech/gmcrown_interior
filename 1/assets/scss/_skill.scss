@@ -1,0 +1,51 @@
+.arck-working-skill-section {
+	padding: 130px 0px;
+	.arck-section-title-2 h2 {
+		padding-bottom: 20px;
+	}
+	.arck-section-title {
+		padding-bottom: 20px;
+	}
+}
+.arck-working-skill-text-wrap {
+	max-width: 540px;
+	padding-top: 50px;
+}
+.arck-skill-progress-bar {
+	padding-top: 20px;
+	.skill-set-percent {
+		margin-bottom: 32px;
+		h4 {
+			color: var(--black-color);
+			font-size: 16px;
+			padding-bottom: 15px;
+			text-transform: uppercase;
+		}
+		.progress {
+			height: 10px;
+			border-radius: 0;
+			position: relative;
+			overflow: visible;
+			border: 1px solid var(--black-color);
+			background-color: transparent;
+			span {
+				right: 0;
+				top: -25px;
+				font-weight: 600;
+				position: absolute;
+				font-family: var(--heading);
+			}
+		}
+		.progress-bar {
+			width: 0;
+			left: 2px;
+			top: 2px;
+			float: left;
+			height: 4px;
+			position: relative;
+			border-radius: 0;
+			transition:  1s all ease-in-out;
+			background-color: var(--black-color);
+		}
+	}
+}

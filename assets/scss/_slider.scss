@@ -1,0 +1,327 @@
+.arck-slider-section-1 {
+	overflow: hidden;
+	z-index: 1;
+	padding: 100px 55px 0px 55px;
+	background-color: var(--black-color-2);
+	&:before,
+	&:after {
+		content: '';
+		z-index: -1;
+		height: 70px;
+		width: 100px;
+		bottom: -20px;
+		position: absolute;
+		background-color: #f4f4f4;
+	}
+	&:before {
+		left: -20px;
+		transform: rotate(-15deg);
+	}
+	&:after {
+		right: -20px;
+		transform: rotate(15deg);
+	}
+}
+.arck-main-slider-item {
+	z-index: 1;
+	padding: 245px 0px 190px;
+	.arck-main-slider-img {
+		top: 0;
+		left: 0;
+		z-index: -2;
+		width: 100%;
+		height: 100%;
+	}
+	.arck-slider-main-text {
+		max-width: 650px;
+		&:before,
+		&:after {
+			top: -160px;
+			left: -80px;
+			width: 2px;
+			content: '';
+			height: 0;
+			position: absolute;
+			transition: all 1500ms ease;
+			background-color: rgba(255, 255, 255, .5);
+		}
+		&:after {
+			top: -110px;
+			height: 2px;
+			left: -135px;
+			width: 0px;
+		}
+		.line-shape {
+			bottom: -80px;
+			right: 30px;
+			height: 350px;
+			width: 350px;
+			&:before,
+			&:after {
+				bottom: 0;
+				right: -80px;
+				width: 2px;
+				content: '';
+				height: 0px;
+				position: absolute;
+				transition: all 1500ms ease;
+				background-color: rgba(255, 255, 255, .5);
+			}
+			&:after {
+				bottom: 50px;
+				height: 2px;
+				right: -135px;
+				width: 0px;
+			}
+		}
+		.slider-sub-text {
+			opacity: 0;
+			color: var(--main-color);
+			font-size: 18px;
+			font-weight: 600;
+			transform: translateY(50px);
+		}
+		h1 {
+			color: var(--white-color);
+			font-size: 80px;
+			font-weight: 600;
+			line-height: 1.125;
+			padding: 15px 0px 50px;
+			opacity: 0;
+			transform: translateY(50px);
+		}
+		.arck-btn {
+			opacity: 0;
+			transform: translateY(50px);
+		}
+		.arck-btn a:before { 
+			border: 1px solid var(--white-color);
+		}
+		.arck-btn a:hover::after {
+			background-color: var(--white-color);
+		}
+		.arck-btn a:hover {
+			color: var(--black-color);
+		}
+	}
+	&.slick-current.slick-active {
+		.img-zooming {
+			transform: scale(1.15);
+			transition: all 7000ms linear;
+		}
+		.arck-slider-main-text {
+			&:before {
+				height: 300px;
+			}
+			&:after {
+				width: 300px;
+			}
+			.line-shape {
+				&:before {
+					height: 300px;
+				}
+				&:after {
+					width: 300px;
+				}
+			}
+			.slider-sub-text {
+				opacity: 1;
+				transform: translateY(0);
+				transition: all 1500ms ease;
+				transition-delay: 900ms;
+			}
+			h1 {
+				opacity: 1;
+				transform: translateY(0);
+				transition: all 1500ms ease;
+				transition-delay: 1200ms;
+			}
+			.arck-btn {
+				opacity: 1;
+				transform: translateY(0);
+				transition: all 1500ms ease;
+				transition-delay: 1500ms;
+			}
+		}
+	}
+}
+.arck-slider-area {
+	.slick-prev,
+	.slick-next {
+		display: none !important;
+	}
+	.slick-dots {
+		top: 50%;
+		left: auto;
+		width: auto;
+		right: 120px ;
+		bottom: auto;
+		transform: translateY(-50%);
+		li {
+
+			width: 5px;
+			height: 25px;
+			display: block;
+			margin-bottom: 10px;
+			background-color: var(--white-color);
+			&.slick-active {
+				background-color: var(--main-color);
+			}
+		}
+	}
+}
+.arck-slider-section-2 {
+	overflow: hidden;
+	background-color: #fbfbfb;
+	.slider-social {
+		left: 50px;
+		z-index: 2;
+		bottom: 50px;
+		a {
+			margin-left: 15px;
+			color: var(--black-color);
+			&:hover {
+				color: var(--main-color);
+			}
+		}
+	}
+}
+.arck-main-slider-item-2 {
+	padding: 350px 0px 215px;
+	.arck-slider-img-2 {
+		top: 0;
+		right: 0;
+		width: 48%;
+		height: 100%;
+		img {
+			width: 100%;
+			height: 100%;
+		}
+	}
+	.slider-shape {
+		top: 25%;
+		opacity: 0;
+		left: 160px;
+		transform: translateY(50px);
+	}
+	.arck-slider-main-text {
+		max-width: 530px;
+		.slider-sub-text {
+			opacity: 0;
+			color: var(--main-color);
+			font-weight: 600;
+			font-size: 18px;
+			letter-spacing: 3px;
+			font-family: var(--heading);
+			padding-left: 35px;
+			position: relative;
+			transform: translateY(50px);
+			&:before {
+				top: 0;
+				left: 2px;
+				content: "";
+				width: 25px;
+				height: 25px;
+				position: absolute;
+				background-repeat: no-repeat;
+				background-image: url(../img/shape/title-shape.png);
+			}
+		}
+		h1 {
+			opacity: 0;
+			color: var(--black-color);
+			font-size: 70px;
+			line-height: 1.071;
+			font-weight: 600;
+			padding: 23px 0px 30px;
+			transform: translateY(50px);
+			span {
+				font-weight: 700;
+			}
+		}
+		p {
+			opacity: 0;
+			font-size: 18px;
+			font-weight: 600;
+			padding-bottom: 40px;
+			font-family: var(--heading);
+			transform: translateY(50px);
+		}
+		.arck-btn-2 {
+			opacity: 0;
+			transform: translateY(50px);
+		}
+	}
+	&.slick-current.slick-active {
+		.arck-slider-main-text {
+			.slider-sub-text {
+				opacity: 1;
+				transform: translateY(0);
+				transition: all 1500ms ease;
+				transition-delay: 300ms;
+			}
+			h1 {
+				opacity: 1;
+				transform: translateY(0);
+				transition: all 1500ms ease;
+				transition-delay: 600ms;
+			}
+			p {
+				opacity: 1;
+				transform: translateY(0);
+				transition: all 1500ms ease;
+				transition-delay: 800ms;
+			}
+			.arck-btn-2 {
+				opacity: 1;
+				transform: translateY(0);
+				transition: all 1500ms ease;
+				transition-delay: 1000ms;
+			}
+		}
+		.slider-shape {
+			opacity: 1;
+			transform: translateY(0);
+			transition: all 1500ms ease;
+			transition-delay: 1200ms;
+		}
+	}
+}
+.arck-main-slider-area-2 {
+	.carousel_nav {
+		top: 50%;
+		left: -100px;
+		z-index: 2;
+		position: absolute;
+		transform: translateY(-50%) rotate(90deg);
+		&:before,
+		&:after {
+			top: -15px;
+			width: 2px;
+			content: '';
+			height: 60px;
+			right: 140px;
+			position: absolute;
+			transform: rotate(90deg);
+			background-color: var(--black-color);
+		}
+		&:after {
+			top: -0px;
+			height: 30px;
+			right: 118px;
+			background-color: var(--main-color);
+		}
+		button {
+			color: var(--black-color);
+			padding: 0;
+			border: none;
+			font-weight: 600;
+			margin: 0 50px;
+			font-family: var(--heading);
+			background-color: transparent;
+			&:hover {
+				color: var(--main-color);
+			}
+		}
+	}
+}
