@@ -992,7 +992,7 @@
 						</div>
 						<div class="info-text ul-li-block">
 							<ul>
-								<li><i class="fas fa-comments"></i>care@gmcrowninterior.com</li>
+								<li><i class="fas fa-comments"></i>gmcrowninterior@gmail.com</li>
 								<li><i class="fas fa-phone-alt"></i> +234-802-855-7665</li>
 							</ul>
 						</div>
