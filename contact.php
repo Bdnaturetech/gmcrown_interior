@@ -40,7 +40,7 @@
 	============================================= -->
     <section id="arck-breadcrumb" class="arck-breadcrumb-section-2 position-relative" data-background="assets/img/bg/ar-shape.png">
         <div class="slider-side-content position-absolute">
-            <span class="archx-slider-side1 position-absolute"><a href="#">Contact@gmail.com</a></span>
+            <span class="archx-slider-side1 position-absolute"><a href="mailto:gmcrowninterior@gmail.com">gmcrowninterior@gmail.com</a></span>
         </div>
         <div class="container">
             <div class="arck-breadcrumb-content position-relative text-center headline-2 ul-li">
@@ -86,8 +86,8 @@
                                         </div>
                                         <div class="inner-text headline pera-content">
                                             <h3>Mail Us:</h3>
-                                            <p>support@gmcrowninterior.com</p>
-                                            <p>sales@gmcrowninterior.com</p>
+                                            <p>gmcrowninterior@gmail.com</p>
+                                            
                                         </div>
                                     </div>
                                     <div class="video-cta-item d-flex">
@@ -133,7 +133,7 @@
                                         </div>
                                     </div>
                                     <input type="hidden" name="_next" value="https://client.bdnaturetech.com/thank">
-                                    <input type="hidden" name="_cc" value="bdnaturetech@gmail.com", "mchumbleprince@gmail.com">
+                                    <input type="hidden" name="_cc" value="gmcrowninterior@gmail.com">
                                     <input type="hidden" name="_captcha" value="false">
                                     <input type="text" name="_honey" style="display:none">
                                     <input type="hidden" name="_autoresponse" value="Thank you for contacting GM Crown interior, we have received your enquiries, one of our representative will be in touch with you shortly. <br> meanwhile you can use the time to check out some of our latest projects and we are always open to render more services.">

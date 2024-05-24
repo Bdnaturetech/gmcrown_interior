@@ -36,7 +36,7 @@
 	<!-- Start of Slider section
 	============================================= -->
 	<section id="archx-slider" class="archx-slider-section position-relative" data-background="assets/img/slider-2/banner.png">
-		<span class="archx-slider-side1 position-absolute"><a href="#">Contact@gmail.com</a></span>
+		<span class="archx-slider-side1 position-absolute"><a href="mailto:gmcrowninterior@gmail.com">gmcrowninterior@gmail.com</a></span>
 		<div class="archx-slider-side2 position-absolute ul-li">
 			<ul>
 				<li><a href="#">Twitter</a></li>
@@ -721,7 +721,7 @@
 											<textarea name="message" placeholder="Enter Your Message*"></textarea>
 										</div>
 										<input type="hidden" name="_next" value="https://client.bdnaturetech.com/thank.php">
-										<input type="hidden" name="_cc" value="bdnaturetech@gmail.com", "mchumbleprince@gmail.com">
+										<input type="hidden" name="_cc" value="gmcrowninterior@gmail.com">
 										<input type="hidden" name="_captcha" value="false">
 										<input type="text" name="_honey" style="display:none">
 										<input type="hidden" name="_autoresponse" value="Thank you for contacting GM Crown interior, we have received your enquiries, one of our representative will be in touch with you shortly. <br> meanwhile you can use the time to check out some of our latest projects and we are always open to render more services.">
@@ -870,7 +870,7 @@
 						</div>
 						<div class="inner-text">
 							<span class="cta-no">+234 802 855 7665</span>
-							<span class="cta-text">Ready To <a href="https://wa.me/message/XBQAU6XM6SRTC1">Get Started?</a> click & call </span>
+							<span class="cta-text">Ready To <a href="https://wa.me/2348028557665">Get Started?</a> click & call </span>
 						</div>
 					</div>
 					<div class="archx-newslatter-form">

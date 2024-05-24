@@ -1,7 +1,7 @@
 <!-- Start of  Footer Section
 	============================================= -->
 <footer id="archx-footer" class="archx-footer-section position-relative" data-background="assets/img/bg/ar-ft-bg.png">
-	<span class="archx-footer-mail position-absolute">customer@gmcrowninterior.com</span>
+	<span class="archx-footer-mail position-absolute">gmcrowninterior@gmail.com</span>
 	<span class="archx-footer-address  position-absolute">SHOP G359/G360 <b>TEJUOSHO MARKET PHASE 2 YABA</b>LAGOS. NIGERIA</span>
 	<div class="container">
 		<div class="archx-footer-content">
