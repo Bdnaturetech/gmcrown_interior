@@ -23,12 +23,12 @@
                         </li>
                         <li><a href="about">About</a></li>
                         <li class="dropdown">
-                            <a href="">GM glance</a>
-                            <ul class="dropdown-menu clearfix">
-                                <li><a href="project">Our Project</a></li>
-                                <!-- <li><a href="#">Work With Us</a></li>
+                            <a href="project">Our Project</a>
+                            <!-- <ul-- class="dropdown-menu clearfix">
+                                <li><a href="project"></a></li>
+                                 <li><a href="#">Work With Us</a></li>
                                 <li><a href="#">Refer & Earn</a></li> -->
-                            </ul>
+                            </ul--> 
                         </li>
                         <li><a href="services">Services</a></li>
                         <li><a href="contact">Contact</a></li>

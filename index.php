@@ -423,6 +423,9 @@
 								<li class="nav-item" role="presentation">
 									<button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact" aria-selected="false">Designing</button>
 								</li>
+								<li class="nav-item" role="presentation">
+									<button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#window" type="button" role="tab" aria-controls="window" aria-selected="false">Window</button>
+								</li>
 								<!--li class="nav-item" role="presentation">
 									<button class="nav-link" id="interior-tab" data-bs-toggle="pill" data-bs-target="#interior" type="button" role="tab" aria-controls="pills-contact" aria-selected="false">Interior</button>
 								</!--li>
@@ -452,6 +455,16 @@
 										</div>
 										<div class="arck-after-item before-after-item position-relative">
 											<img src="assets/img/about/curtain10.png" alt="">
+										</div>
+									</div>
+								</div>
+								<div class="tab-pane fade" id="window" role="tabpanel" aria-labelledby="pills-profile-tab">
+									<div class="twentytwenty-container beforeafter-wrap">
+										<div class="arck-before-item before-after-item position-relative">
+											<img src="assets/img/about/curtain11.png" alt="">
+										</div>
+										<div class="arck-after-item before-after-item position-relative">
+											<img src="assets/img/about/curtain12.png" alt="">
 										</div>
 									</div>
 								</div>

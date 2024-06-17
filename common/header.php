@@ -6,7 +6,7 @@
 				<div class="header-top-cta ul-li">
 					<ul>
 						
-						<li><i class="fal fa-envelope"></i> sales@gmcrowninterior.com </li>
+						<li><i class="fal fa-envelope"></i> gmcrowninterior@gmail.com</li>
 					</ul>
 				</div>
 				<div class="brand-logo">
@@ -85,14 +85,10 @@
 										<a href="/">Home</a>
 										
 									</li>
-									<li><a href="about.php">About</a></li>
+									<li><a href="about">About</a></li>
 									<li class="dropdown">
-										<a href="!#">GM glance</a>
-										<ul class="dropdown-menu clearfix">
-											<li><a href="#">Our Project</a></li>
-											<li><a href="#">Work With Us</a></li>
-											<li><a href="#">Refer & Earn</a></li>
-										</ul>
+										<a href="project">Our Project</a>
+										
 									</li>
 									<li class="dropdown">
 										<a href="service">Services</a>										
