@@ -417,11 +417,12 @@
 								<li class="nav-item" role="presentation">
 									<button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">Curtain</button>
 								</li>
-								<li class="nav-item" role="presentation">
-									<button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">Styling</button>
-								</li>
+								
 								<li class="nav-item" role="presentation">
 									<button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact" aria-selected="false">Designing</button>
+								</li>
+								<li class="nav-item" role="presentation">
+									<button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">Styling</button>
 								</li>
 								<li class="nav-item" role="presentation">
 									<button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#window" type="button" role="tab" aria-controls="window" aria-selected="false">Window</button>
@@ -448,6 +449,16 @@
 										</div>
 									</div>
 								</div>
+								<div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
+									<div class="twentytwenty-container beforeafter-wrap">
+										<div class="arck-before-item before-after-item position-relative">
+											<img src="assets/img/about/curtain11.png" alt="">
+										</div>
+										<div class="arck-after-item before-after-item position-relative">
+											<img src="assets/img/about/curtain12.png" alt="">
+										</div>
+									</div>
+								</div>
 								<div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
 									<div class="twentytwenty-container beforeafter-wrap">
 										<div class="arck-before-item before-after-item position-relative">
@@ -461,23 +472,14 @@
 								<div class="tab-pane fade" id="window" role="tabpanel" aria-labelledby="pills-profile-tab">
 									<div class="twentytwenty-container beforeafter-wrap">
 										<div class="arck-before-item before-after-item position-relative">
-											<img src="assets/img/about/curtain11.png" alt="">
+											<img src="assets/img/about/curtain4a.png" alt="">
 										</div>
 										<div class="arck-after-item before-after-item position-relative">
-											<img src="assets/img/about/curtain12.png" alt="">
+											<img src="assets/img/about/curtain4b.png" alt="">
 										</div>
 									</div>
 								</div>
-								<div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
-									<div class="twentytwenty-container beforeafter-wrap">
-										<div class="arck-before-item before-after-item position-relative">
-											<img src="assets/img/about/curtain11.png" alt="">
-										</div>
-										<div class="arck-after-item before-after-item position-relative">
-											<img src="assets/img/about/curtain12.png" alt="">
-										</div>
-									</div>
-								</div>
+								
 								<div class="tab-pane fade" id="interior" role="tabpanel" aria-labelledby="pills-contact-tab">
 									<div class="twentytwenty-container beforeafter-wrap">
 										<div class="arck-before-item before-after-item position-relative">
@@ -733,7 +735,7 @@
 										<div class="col-md-12">
 											<textarea name="message" placeholder="Enter Your Message*"></textarea>
 										</div>
-										<input type="hidden" name="_next" value="https://client.bdnaturetech.com/thank.php">
+										<input type="hidden" name="_next" value="https://gmcrowninterior/thank.php">
 										<input type="hidden" name="_cc" value="gmcrowninterior@gmail.com">
 										<input type="hidden" name="_captcha" value="false">
 										<input type="text" name="_honey" style="display:none">
@@ -844,34 +846,8 @@
 						</div>
 					</div>
 				</div>
-				<!--div class="archx-project-item-2">
-					<div class="archx-project-item-content  position-relative">
-						<div class="archx-project-img-2">
-							<img src="assets/img/project/ar-pro1.png" alt="">
-						</div>
-						<div class="serial-no d-flex justify-content-center align-items-center position-absolute">
-							06
-						</div>
-						<div class="archx-project-text-2 d-flex justify-content-between headline-2 position-absolute align-items-center">
-							<h3><a href="">Book  Service</a></h3>
-							<a class="more_btn d-flex align-items-center justify-content-center" href="project.php"> <i class="fal fa-long-arrow-right"></i></a>
-						</div>
-					</div>
-				</div-->
-				<!--div class="archx-project-item-2">
-					<div class="archx-project-item-content  position-relative">
-						<div class="archx-project-img-2">
-							<img src="assets/img/project/ar-pro2.png" alt="">
-						</div>
-						<div class="serial-no d-flex justify-content-center align-items-center position-absolute">
-							07
-						</div>
-						<div class="archx-project-text-2 d-flex justify-content-between headline-2 position-absolute align-items-center">
-							<h3><a href="project.php">Book Service</a></h3>
-							<a class="more_btn d-flex align-items-center justify-content-center" href="project.php"> <i class="fal fa-long-arrow-right"></i></a>
-						</div>
-					</div>
-				</div-->
+			
+			
 			</div>
 		</div>
 		<div class="archx-newslatter-wrapper">
@@ -889,9 +865,15 @@
 					<div class="archx-newslatter-form">
 						<div class="newslatter-form position-relative">
 							<span class="bg-icon position-absolute"><i class="fas fa-envelope"></i></span>
-							<form action="#" method="get">
+							<form action="https://formsubmit.co/client@bdnaturetech.com" method="POST">
 								<input type="email" name="email" placeholder="Enter your Email">
 								<button type="submit">Subscribe</button>
+								<input type="hidden" name="_next" value="https://gmcrowninterior/thank.php">
+										<input type="hidden" name="_cc" value="gmcrowninterior@gmail.com">
+										<input type="hidden" name="_captcha" value="false">
+										<input type="text" name="_honey" style="display:none">
+										<input type="hidden" name="_autoresponse" value="Thank you for contacting GM Crown interior, we have received your enquiries, one of our representative will be in touch with you shortly. <br> meanwhile you can use the time to check out some of our latest projects and we are always open to render more services.">
+										<input type="hidden" name="_template" value="table">
 							</form>
 						</div>
 					</div>
@@ -930,7 +912,7 @@
 										<div class="carousel-item active">
 											<div class="archx-testimonial-item headline-2 pera-content">
 												<h3>Its Really Awesome</h3>
-												<p>The other hand we denounce with righteou indg ation and dislike men who are so beguiled and demorali ed by the of pleasure of the moment.Dislike men who are so beguiled demoraliz worlds ed by the charms of pleasure of the moment. Lorem ipsum dolor sit
+												<p>The sercie rendered were of my satisfactory, the architect craft before the commencement of the project aligned smoothly with the outcome after the designwas made. Thanks @GM CROWN INTERIOR
 												</p>
 											</div>
 										</div>
@@ -950,7 +932,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="carousel-indicators-wrap d-flex align-items-center">
+								<!-- <div class="carousel-indicators-wrap d-flex align-items-center">
 									<div class="carousel-indicators">
 										<button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"><img src="assets/img/testimonial/tst1.jpg" alt=""></button>
 										<button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"><img src="assets/img/testimonial/tst2.jpg" alt=""></button>
@@ -959,7 +941,7 @@
 									<div class="more-testimonial-btn">
 										<a href=""> <i class="fal fa-long-arrow-right"></i></a>
 									</div>
-								</div>
+								</div> -->
 							</div>
 						</div>
 					</div>
@@ -1027,36 +1009,16 @@
 					<span>Facebook</span>
 				</a>
 			</div>
+			
+			
 			<div class="archx-social-item">
-				<a href="#">
-					<i class="fab fa-linkedin"></i>
-					<span>Linkdin</span>
-				</a>
-			</div>
-			<div class="archx-social-item">
-				<a href="#">
-					<i class="fab fa-twitter"></i>
-					<span>Twitter</span>
-				</a>
-			</div>
-			<div class="archx-social-item">
-				<a href="#">
+				<a href="https://www.instagram.com/gmcrown_interior/">
 					<i class="fab fa-instagram"></i>
 					<span>Instagram</span>
 				</a>
 			</div>
-			<div class="archx-social-item">
-				<a href="#">
-					<i class="fab fa-youtube"></i>
-					<span>Youtube</span>
-				</a>
-			</div>
-			<div class="archx-social-item">
-				<a href="#">
-					<i class="fab fa-pinterest"></i>
-					<span>Pinterest</span>
-				</a>
-			</div>
+			
+			
 		</div>
 	</section>
 	<!-- End of  Social Section
