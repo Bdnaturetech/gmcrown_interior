@@ -64,6 +64,7 @@
 					<button class="filter-button" data-filter=".design"> 3D Design</button>
 					<button class="filter-button" data-filter=".building">Curtain</button>
 					<button class="filter-button" data-filter=".house_exterior">House & Exterior </button>
+					<button class="filter-button" data-filter=".window_blind">window blind </button>
 				</div>
 			</div>
 		</div>
@@ -305,6 +306,74 @@
 						</div>
 					</div>
 				</div>
+
+				<div class="grid-item grid-size-25 house_exterior" data-category="window_blind">
+					<div class="arck-project-item position-relative two">
+						<div class="inner-img">
+							<img src="assets/img/project/p19.jpg" alt="">
+						</div>
+						<div class="inner-text">
+							
+						</div>
+						<div class="view-more-btn text-uppercase position-absolute">
+							<a href="contact">View Details <i class="fal fa-arrow-right"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="grid-item grid-size-25 house_exterior" data-category="window_blind">
+					<div class="arck-project-item position-relative two">
+						<div class="inner-img">
+							<img src="assets/img/project/p20.jpg" alt="">
+						</div>
+						<div class="inner-text">
+							
+						</div>
+						<div class="view-more-btn text-uppercase position-absolute">
+							<a href="contact">View Details <i class="fal fa-arrow-right"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="grid-item grid-size-25 house_exterior" data-category="window_blind">
+					<div class="arck-project-item position-relative two">
+						<div class="inner-img">
+							<img src="assets/img/project/p21.jpg" alt="">
+						</div>
+						<div class="inner-text">
+							
+						</div>
+						<div class="view-more-btn text-uppercase position-absolute">
+							<a href="contact">View Details <i class="fal fa-arrow-right"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="grid-item grid-size-25 house_exterior" data-category="window_blind">
+					<div class="arck-project-item position-relative two">
+						<div class="inner-img">
+							<img src="assets/img/project/p22.jpg" alt="">
+						</div>
+						<div class="inner-text">
+							
+						</div>
+						<div class="view-more-btn text-uppercase position-absolute">
+							<a href="contact">View Details <i class="fal fa-arrow-right"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="grid-item grid-size-25 house_exterior" data-category="window_blind">
+					<div class="arck-project-item position-relative two">
+						<div class="inner-img">
+							<img src="assets/img/project/p23.jpg" alt="">
+						</div>
+						<div class="inner-text">
+							
+						</div>
+						<div class="view-more-btn text-uppercase position-absolute">
+							<a href="contact">View Details <i class="fal fa-arrow-right"></i></a>
+						</div>
+					</div>
+				</div>
+
+				
 
 			</div>
 			

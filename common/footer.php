@@ -2,7 +2,7 @@
 	============================================= -->
 <footer id="archx-footer" class="archx-footer-section position-relative" data-background="assets/img/bg/ar-ft-bg.png">
 	<span class="archx-footer-mail position-absolute">gmcrowninterior@gmail.com</span>
-	<span class="archx-footer-address  position-absolute">SHOP G359/G360 <b>TEJUOSHO MARKET PHASE 2 YABA</b>LAGOS. NIGERIA</span>
+	<span class="archx-footer-address  position-absolute">SHOP F264<b>TEJUOSHO MARKET PHASE 2 YABA</b>LAGOS. NIGERIA</span>
 	<div class="container">
 		<div class="archx-footer-content">
 			<div class="row">
@@ -17,7 +17,7 @@
 							</div>
 							<div class="logo-cta-info ul-li-block">
 								<ul>
-									<li><i class="fal fa-map-marker-alt"></i> SHOP G359/G360, Yaba, Lagos</li>
+									<li><i class="fal fa-map-marker-alt"></i> SHOP F264, Tejuosho Market Phase 2, Yaba, Lagos</li>
 									<li><i class="fas fa-phone-alt"></i> +234-802-855-7665</li>
 								</ul>
 							</div>

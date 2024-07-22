@@ -120,7 +120,7 @@
         <div class="content">
            
             <h1>Thank You for your Submission!</h1>
-            <p>One of our Representative will be intouch with you shortly.</p>
+            <p>One of our Representative will be intouch with you shortly. you can directly chat us on whatsapp on 08028557665</p>
             <div class="link-container">
                 <a 
                     class=link

@@ -96,7 +96,7 @@
 								<span>customer</span> satisfaction
 							</div>
 							<div class="archx-experience-text text-center position-absolute pera-content">
-								5<sub>+</sub>
+								10<sub>+</sub>
 								<p>years of
 									experince</p>
 							</div>
@@ -976,7 +976,7 @@
 							<h3>Our Address</h3>
 						</div>
 						<div class="info-text">
-							SHOP G359/G360, Yaba, Lagos
+						SHOP F264, Tejuosho Market Phase 2, Yaba, Lagos
 							Nigeria.
 						</div>
 					</div>

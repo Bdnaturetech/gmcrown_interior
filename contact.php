@@ -75,7 +75,7 @@
                                         </div>
                                         <div class="inner-text headline pera-content">
                                             <h3>Office Address:</h3>
-                                            <p>SHOP G359/G360, Lagos</p>
+                                            <p>SHOP F264, Tejuosho Market Phase 2</p>
                                             <p> Yaba, Lagos
                                                 Nigeria</p>
                                         </div>
