@@ -82,10 +82,9 @@
 							</div>
 							<div class="inner-text headline pera-content">
 								<h3><a href="">Custom Solutions</a></h3>
-								<p>Prepare to meet the one and only For
-									the WordPress theme perfect for both offer in the corporate ativeects.
+								<p>Provide you best of your choices selection from or out of catalogue collections.
 								</p>
-								<a class="read-more-btn text-uppercase" href="service-details.html">Read more <i class="fal fa-arrow-right"></i></a>
+								<a class="read-more-btn text-uppercase" href="https://www.instagram.com/gmcrown_interior/">Read more <i class="fal fa-arrow-right"></i></a>
 							</div>
 						</div>
 					</div>
@@ -97,10 +96,9 @@
 							</div>
 							<div class="inner-text headline pera-content">
 								<h3><a href="">Curtain & Decor</a></h3>
-								<p>Prepare to meet the one and only For
-									the WordPress theme perfect for both offer in the corporate ativeects.
+								<p>Enrich your window with best Decorations beyond wowly view, international designs approach.
 								</p>
-								<a class="read-more-btn text-uppercase" href="service-details.html">Read more <i class="fal fa-arrow-right"></i></a>
+								<a class="read-more-btn text-uppercase" href="https://www.instagram.com/gmcrown_interior/">Read more <i class="fal fa-arrow-right"></i></a>
 							</div>
 						</div>
 					</div>
@@ -148,26 +146,26 @@
 								<span class="sub-title text-uppercase">Working Skill</span>
 								<h2>How Do You Assess <span>Our
 								qualities</span> and Skills?</h2>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting dust. Lorem Ipsum has been the dard dummy text ever since the 1500s, an unknown printer took a galley of type and scrambled</p>
+								<p>GM Crown Interior bring you closer to best of product you could ever aspire for, check out our work assessing to meets your needs..</p>
 							</div>
 							<div class="arck-skill-progress-bar">
 								<div class="skill-progress-bar">
 									<div class="skill-set-percent headline">
-										<h4>Architect Design</h4>
+										<h4>House & Exterior</h4>
 										<div class="progress">
 											<div class="progress-bar" data-percent="92"></div>
 										</div>
 									</div>
 									<div class="skill-set-percent headline">
-										<h4>Interior Design</h4>
+										<h4>Curtains Quality</h4>
 										<div class="progress">
-											<div class="progress-bar" data-percent="85"></div>
+											<div class="progress-bar" data-percent="96"></div>
 										</div>
 									</div>
 									<div class="skill-set-percent headline">
 										<h4>3D Design</h4>
 										<div class="progress">
-											<div class="progress-bar" data-percent="85"></div>
+											<div class="progress-bar" data-percent="89"></div>
 										</div>
 									</div>
 								</div>
@@ -195,8 +193,7 @@
 			<div class="arck-section-title headline text-center pera-content">
 				<span class="sub-title text-uppercase">Work Process</span>
 				<h2>How We Complete Works</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor labore et dolore magna aliqua. Ut enim ad minim veniam quis.
-				</p>
+				
 			</div>
 			<div class="arck-work-process-content">
 				<div class="row justify-content-center">
@@ -206,11 +203,11 @@
 								<img src="assets/icon/ic4.png" alt="">
 							</div>
 							<div class="inner-text headline pera-content">
-								<h3>Planning & Design</h3>
-								<p>Prepare to meet the one and only For the WordPress theme perfect for both offer    in the corporate ativeects.</p>
+								<h3>Choose Your Design</h3>
+								<p>Click here to check our catologue of different designs and styles just for you</p>
 								<div class="work-serial position-relative">
 									<h4>01</h4>
-									<span class="text-uppercase">Step</span>
+									<span class="text-uppercase" href="/project">Step</span>
 								</div>
 							</div>
 						</div>
