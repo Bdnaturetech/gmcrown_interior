@@ -257,15 +257,15 @@
 				<div class="img-bg position-absolute">
 					<img src="assets/img/project/pro-bg.png" alt="">
 				</div>
-				<div class="project-icon">
+				<!-- <div class="project-icon">
 					<img src="assets/icon/ar-pr2.png" alt="">
-				</div>
+				</div> -->
 				<div class="project-text headline-2 pera-content">
 					<h3>Creative Design & Digital
 						Soulktion</h3>
 					<p>We build and activate brands through cultural insight
 						str vision, and the power of </p>
-					<a href="project.php">See More <i class="fal fa-long-arrow-right"></i></a>
+					<a href="project">See More <i class="fal fa-long-arrow-right"></i></a>
 				</div>
 				<div class="hover-item">
 					<div class="inner-img">
@@ -283,7 +283,7 @@
 						<div class="inner-title headline-2">
 							<h3>Creative Design & Digital
 								Soulktion</h3>
-							<a href="project.php">See More <i class="fal fa-long-arrow-right"></i></a>
+							<a href="project">See More <i class="fal fa-long-arrow-right"></i></a>
 						</div>
 					</div>
 				</div>
@@ -300,7 +300,7 @@
 						Soulktion</h3>
 					<p>We build and activate brands through cultural insight
 						str vision, and the power of </p>
-					<a href="project.php">See More <i class="fal fa-long-arrow-right"></i></a>
+					<a href="project">See More <i class="fal fa-long-arrow-right"></i></a>
 				</div>
 				<div class="hover-item">
 					<div class="inner-img">
@@ -318,7 +318,7 @@
 						<div class="inner-title headline-2">
 							<h3>Creative Design & Digital
 								Soulktion</h3>
-							<a href="project.php">See More <i class="fal fa-long-arrow-right"></i></a>
+							<a href="project">See More <i class="fal fa-long-arrow-right"></i></a>
 						</div>
 					</div>
 				</div>
@@ -335,7 +335,7 @@
 						Soulktion</h3>
 					<p>We build and activate brands through cultural insight
 						str vision, and the power of </p>
-					<a href="project.php">See More <i class="fal fa-long-arrow-right"></i></a>
+					<a href="project">See More <i class="fal fa-long-arrow-right"></i></a>
 				</div>
 				<div class="hover-item">
 					<div class="inner-img">
@@ -353,7 +353,7 @@
 						<div class="inner-title headline-2">
 							<h3>Creative Design & Digital
 								Soulktion</h3>
-							<a href="project.php">See More <i class="fal fa-long-arrow-right"></i></a>
+							<a href="project">See More <i class="fal fa-long-arrow-right"></i></a>
 						</div>
 					</div>
 				</div>
@@ -370,7 +370,7 @@
 						Soulktion</h3>
 					<p>We build and activate brands through cultural insight
 						str vision, and the power of </p>
-					<a href="project.php">See More <i class="fal fa-long-arrow-right"></i></a>
+					<a href="project">See More <i class="fal fa-long-arrow-right"></i></a>
 				</div>
 				<div class="hover-item">
 					<div class="inner-img">
@@ -388,7 +388,7 @@
 						<div class="inner-title headline-2">
 							<h3>Creative Design & Digital
 								Soulktion</h3>
-							<a href="project.php">See More <i class="fal fa-long-arrow-right"></i></a>
+							<a href="project">See More <i class="fal fa-long-arrow-right"></i></a>
 						</div>
 					</div>
 				</div>
@@ -786,7 +786,7 @@
 						</div>
 						<div class="archx-project-text-2 d-flex justify-content-between headline-2 position-absolute align-items-center">
 							<h3><a href="">Book Service</a></h3>
-							<a class="more_btn d-flex align-items-center justify-content-center" href="project.php"> <i class="fal fa-long-arrow-right"></i></a>
+							<a class="more_btn d-flex align-items-center justify-content-center" href="project"> <i class="fal fa-long-arrow-right"></i></a>
 						</div>
 					</div>
 				</div>
@@ -800,7 +800,7 @@
 						</div>
 						<div class="archx-project-text-2 d-flex justify-content-between headline-2 position-absolute align-items-center">
 							<h3><a href="">Book Service</a></h3>
-							<a class="more_btn d-flex align-items-center justify-content-center" href="project.php"> <i class="fal fa-long-arrow-right"></i></a>
+							<a class="more_btn d-flex align-items-center justify-content-center" href="project"> <i class="fal fa-long-arrow-right"></i></a>
 						</div>
 					</div>
 				</div>
@@ -814,7 +814,7 @@
 						</div>
 						<div class="archx-project-text-2 d-flex justify-content-between headline-2 position-absolute align-items-center">
 							<h3><a href="">Book Service</a></h3>
-							<a class="more_btn d-flex align-items-center justify-content-center" href="project.php"> <i class="fal fa-long-arrow-right"></i></a>
+							<a class="more_btn d-flex align-items-center justify-content-center" href="project"> <i class="fal fa-long-arrow-right"></i></a>
 						</div>
 					</div>
 				</div>
@@ -828,7 +828,7 @@
 						</div>
 						<div class="archx-project-text-2 d-flex justify-content-between headline-2 position-absolute align-items-center">
 							<h3><a href="">Book Service</a></h3>
-							<a class="more_btn d-flex align-items-center justify-content-center" href="project.php"> <i class="fal fa-long-arrow-right"></i></a>
+							<a class="more_btn d-flex align-items-center justify-content-center" href="project"> <i class="fal fa-long-arrow-right"></i></a>
 						</div>
 					</div>
 				</div>
@@ -842,7 +842,7 @@
 						</div>
 						<div class="archx-project-text-2 d-flex justify-content-between headline-2 position-absolute align-items-center">
 							<h3><a href="">Book Service</a></h3>
-							<a class="more_btn d-flex align-items-center justify-content-center" href="project.php"> <i class="fal fa-long-arrow-right"></i></a>
+							<a class="more_btn d-flex align-items-center justify-content-center" href="project"> <i class="fal fa-long-arrow-right"></i></a>
 						</div>
 					</div>
 				</div>
