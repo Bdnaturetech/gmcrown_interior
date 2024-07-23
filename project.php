@@ -70,11 +70,24 @@
 		</div>
 		<div class="arck-project-filter-content">
 			<div class="filtr-container-area grid clearfix" data-isotope="{ &quot;masonry&quot;: { &quot;columnWidth&quot;: 0 } }">
-				<div class="grid-sizer"></div>
+				<!-- <div class="grid-sizer"></div> -->
 				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
 					<div class="arck-project-item position-relative two">
 						<div class="inner-img">
 							<img src="assets/img/project/p1.jpg" alt="">
+						</div>
+						<div class="inner-text">
+							
+						</div>
+						<div class="view-more-btn text-uppercase position-absolute">
+							<a href="contact">View Details <i class="fal fa-arrow-right"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="grid-item grid-size-25 window_blind" data-category="window_blind">
+					<div class="arck-project-item position-relative two">
+						<div class="inner-img">
+							<img src="assets/img/project/p20.jpg" alt="">
 						</div>
 						<div class="inner-text">
 							
@@ -346,19 +359,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="grid-item grid-size-25 window_blind" data-category="window_blind">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/project/p20.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							
-						</div>
-						<div class="view-more-btn text-uppercase position-absolute">
-							<a href="contact">View Details <i class="fal fa-arrow-right"></i></a>
-						</div>
-					</div>
-				</div>
+				
 				<div class="grid-item grid-size-25 window_blind" data-category="window_blind">
 					<div class="arck-project-item position-relative two">
 						<div class="inner-img">
