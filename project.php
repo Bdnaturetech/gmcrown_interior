@@ -84,6 +84,19 @@
 						</div>
 					</div>
 				</div>
+				<div class="grid-item grid-size-25 window_blind" data-category="window_blind">
+					<div class="arck-project-item position-relative two">
+						<div class="inner-img">
+							<img src="assets/img/project/p23.jpg" alt="">
+						</div>
+						<div class="inner-text">
+							
+						</div>
+						<div class="view-more-btn text-uppercase position-absolute">
+							<a href="contact">View Details <i class="fal fa-arrow-right"></i></a>
+						</div>
+					</div>
+				</div>
 				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
 					<div class="arck-project-item position-relative two">
 						<div class="inner-img">
@@ -114,6 +127,19 @@
 					<div class="arck-project-item position-relative two">
 						<div class="inner-img">
 							<img src="assets/img/project/p4.jpg" alt="">
+						</div>
+						<div class="inner-text">
+							
+						</div>
+						<div class="view-more-btn text-uppercase position-absolute">
+							<a href="contact">View Details <i class="fal fa-arrow-right"></i></a>
+						</div>
+					</div>
+				</div>
+				<div class="grid-item grid-size-25 building" data-category="building">
+					<div class="arck-project-item position-relative two">
+						<div class="inner-img">
+							<img src="assets/img/project/p6.jpg" alt="">
 						</div>
 						<div class="inner-text">
 							
@@ -307,7 +333,7 @@
 					</div>
 				</div>
 
-				<div class="grid-item grid-size-25 house_exterior" data-category="window_blind">
+				<div class="grid-item grid-size-25 window_blind" data-category="window_blind">
 					<div class="arck-project-item position-relative two">
 						<div class="inner-img">
 							<img src="assets/img/project/p19.jpg" alt="">
@@ -320,7 +346,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="grid-item grid-size-25 house_exterior" data-category="window_blind">
+				<div class="grid-item grid-size-25 window_blind" data-category="window_blind">
 					<div class="arck-project-item position-relative two">
 						<div class="inner-img">
 							<img src="assets/img/project/p20.jpg" alt="">
@@ -333,7 +359,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="grid-item grid-size-25 house_exterior" data-category="window_blind">
+				<div class="grid-item grid-size-25 window_blind" data-category="window_blind">
 					<div class="arck-project-item position-relative two">
 						<div class="inner-img">
 							<img src="assets/img/project/p21.jpg" alt="">
@@ -346,7 +372,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="grid-item grid-size-25 house_exterior" data-category="window_blind">
+				<div class="grid-item grid-size-25 window_blind" data-category="window_blind">
 					<div class="arck-project-item position-relative two">
 						<div class="inner-img">
 							<img src="assets/img/project/p22.jpg" alt="">
@@ -359,19 +385,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="grid-item grid-size-25 house_exterior" data-category="window_blind">
-					<div class="arck-project-item position-relative two">
-						<div class="inner-img">
-							<img src="assets/img/project/p23.jpg" alt="">
-						</div>
-						<div class="inner-text">
-							
-						</div>
-						<div class="view-more-btn text-uppercase position-absolute">
-							<a href="contact">View Details <i class="fal fa-arrow-right"></i></a>
-						</div>
-					</div>
-				</div>
+				
 
 				
 

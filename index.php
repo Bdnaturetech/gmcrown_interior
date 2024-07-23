@@ -330,7 +330,7 @@
 				</div>
 				<div class="hover-item">
 					<div class="inner-img">
-						<img src="assets/img/project/curtain5.png" alt="">
+						<img src="assets/img/project/p1.jpg" alt="">
 					</div>
 					<div class="inner-text position-absolute">
 						<div class="inner-icon-serial d-flex align-items-center">
@@ -681,15 +681,15 @@
 							</div>
 							<div class="archx-counter-wrapper d-flex justify-content-between">
 								<div class="archx-counter-item headline-2 pera-content">
-									<h3><span class="counter">3.3</span>M</h3>
+									<h3><span class="counter">5.3</span>M</h3>
 									<p>Projects done</p>
 								</div>
 								<div class="archx-counter-item headline-2 pera-content">
-									<h3><span class="counter">98</span></h3>
+									<h3><span class="counter">98%</span></h3>
 									<p>Customer Satisfaction</p>
 								</div>
 								<div class="archx-counter-item headline-2 pera-content">
-									<h3><span class="counter">104</span></h3>
+									<h3><span class="counter">520</span></h3>
 									<p>Worlds Clients</p>
 								</div>
 							</div>
