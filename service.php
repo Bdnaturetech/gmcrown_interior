@@ -206,8 +206,11 @@
 								<h3>Choose Your Design</h3>
 								<p>Click here to check our catologue of different designs and styles just for you</p>
 								<div class="work-serial position-relative">
+									<a href="/project">
 									<h4>01</h4>
-									<span class="text-uppercase" href="/project">Step</span>
+									<span class="text-uppercase" >Step</span>
+
+									</a>
 								</div>
 							</div>
 						</div>
