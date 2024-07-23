@@ -45,7 +45,7 @@
 			<div class="arck-breadcrumb-content position-relative text-center headline-2 ul-li">
 				<h1>Service</h1>
 				<ul>
-					<li><a href="!#">Home</a></li>
+					<li><a href="">Home</a></li>
 					<li>Service</li>
 				</ul>
 			</div>
@@ -68,10 +68,9 @@
 							</div>
 							<div class="inner-text headline pera-content">
 								<h3><a href="">Planning & Design</a></h3>
-								<p>Prepare to meet the one and only For
-									the WordPress theme perfect for both offer in the corporate ativeects.
+								<p>Meeting your team to understand and enroll you for best design from our catalogue and beyond.
 								</p>
-								<a class="read-more-btn text-uppercase" href="service-details.html">Read more <i class="fal fa-arrow-right"></i></a>
+								<a class="read-more-btn text-uppercase" href="https://www.instagram.com/gmcrown_interior/">Read more <i class="fal fa-arrow-right"></i></a>
 							</div>
 						</div>
 					</div>

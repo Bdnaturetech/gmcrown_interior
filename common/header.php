@@ -46,7 +46,7 @@
 											<li><a href="#">Refer & Earn</a></li> -->
 										</ul>							
 								</li>
-								<li><a href="services">Services</a></li>							
+								<li><a href="service">service</a></li>							
 								<li><a href="contact">Contact</a></li>
 							</ul>
 						</nav>
@@ -91,7 +91,7 @@
 										
 									</li>
 									<li class="dropdown">
-										<a href="service">Services</a>										
+										<a href="service">service</a>										
 									</li>
 									
 									<li><a href="contact">Contact</a></li>

@@ -115,7 +115,7 @@
 											<p>We build and activate brands
 												through cultural insight, str
 												vision, and the power of </p>
-											<a href="service.php">Know More <i class="fal fa-long-arrow-right"></i></a>
+											<a href="service">Know More <i class="fal fa-long-arrow-right"></i></a>
 										</div>
 									</div>
 								</div>
@@ -129,7 +129,7 @@
 											<p>We build and activate brands
 												through cultural insight, str
 												vision, and the power of </p>
-											<a href="service.php">Know More <i class="fal fa-long-arrow-right"></i></a>
+											<a href="service">Know More <i class="fal fa-long-arrow-right"></i></a>
 										</div>
 									</div>
 								</div>
@@ -143,7 +143,7 @@
 											<p>We build and activate brands
 												through cultural insight, str
 												vision, and the power of </p>
-											<a href="service.php">Know More <i class="fal fa-long-arrow-right"></i></a>
+											<a href="service">Know More <i class="fal fa-long-arrow-right"></i></a>
 										</div>
 									</div>
 								</div>
@@ -546,7 +546,7 @@
 											<h3><a href="#">Visiting at home</a></h3>
 											<p>We build and activate starts
 												through cultural insight of your project</p>
-											<a class="more-btn" href="service.php"><i class="fal fa-long-arrow-right"></i></a>
+											<a class="more-btn" href="service"><i class="fal fa-long-arrow-right"></i></a>
 										</div>
 									</div>
 								</div>
@@ -561,7 +561,7 @@
 											<p>We make an Architech
 												Sketch of your of your
 												Desired design</p>
-											<a class="more-btn" href="service.php"><i class="fal fa-long-arrow-right"></i></a>
+											<a class="more-btn" href="service"><i class="fal fa-long-arrow-right"></i></a>
 										</div>
 									</div>
 								</div>
@@ -576,7 +576,7 @@
 											<p>We execute the job done
 												within stepulated period
 												Meeting our customers satisfation</p>
-											<a class="more-btn" href="service.php"><i class="fal fa-long-arrow-right"></i></a>
+											<a class="more-btn" href="service"><i class="fal fa-long-arrow-right"></i></a>
 										</div>
 									</div>
 								</div>

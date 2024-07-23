@@ -46,7 +46,7 @@
 								<li><a href="">Career</a></li>
 								<li><a href="">Get Quotation</a></li>
 								<li><a href="">Investors</a></li>
-								<li><a href="service.php">Services</a></li>
+								<li><a href="service">Services</a></li>
 
 							</ul>
 						</div>
