@@ -221,11 +221,14 @@
 								<img src="assets/icon/ic5.png" alt="">
 							</div>
 							<div class="inner-text headline pera-content">
-								<h3>Draws & Sketches</h3>
-								<p>Prepare to meet the one and only For the WordPress theme perfect for both offer    in the corporate ativeects.</p>
+								<h3>Contact Us</h3>
+								<p>Get price selling with best discount on your choice of design, directly from our sales rep. click to chat with us</p>
 								<div class="work-serial position-relative">
+								<a href="/project">
 									<h4>02</h4>
-									<span class="text-uppercase">Step</span>
+									<span class="text-uppercase" >Step</span>
+
+									</a>
 								</div>
 							</div>
 						</div>
@@ -239,8 +242,11 @@
 								<h3>Execute work</h3>
 								<p>Prepare to meet the one and only For the WordPress theme perfect for both offer    in the corporate ativeects.</p>
 								<div class="work-serial position-relative">
-									<h4>03</h4>
-									<span class="text-uppercase">Step</span>
+								<a href="/project">
+									<h4>01</h4>
+									<span class="text-uppercase" >Step</span>
+
+									</a>
 								</div>
 							</div>
 						</div>
