@@ -224,7 +224,7 @@
 								<h3>Contact Us</h3>
 								<p>Get price selling with best discount on your choice of design, directly from our sales rep. click to chat with us</p>
 								<div class="work-serial position-relative">
-								<a href="/project">
+								<a href="https://wa.me/message/XBQAU6XM6SRTC1">
 									<h4>02</h4>
 									<span class="text-uppercase" >Step</span>
 
@@ -240,10 +240,10 @@
 							</div>
 							<div class="inner-text headline pera-content">
 								<h3>Execute work</h3>
-								<p>Prepare to meet the one and only For the WordPress theme perfect for both offer    in the corporate ativeects.</p>
+								<p>We commmence you project and make you feel the top-notch of our expertise.</p>
 								<div class="work-serial position-relative">
-								<a href="/project">
-									<h4>01</h4>
+								<a href="https://www.instagram.com/gmcrown_interior/">
+									<h4>03</h4>
 									<span class="text-uppercase" >Step</span>
 
 									</a>
