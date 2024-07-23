@@ -70,7 +70,7 @@
 		</div>
 		<div class="arck-project-filter-content">
 			<div class="filtr-container-area grid clearfix" data-isotope="{ &quot;masonry&quot;: { &quot;columnWidth&quot;: 0 } }">
-				<!-- <div class="grid-sizer"></div> -->
+				<div class="grid-sizer"></div>
 				<div class="grid-item grid-size-25 interiors design" data-category="interiors design">
 					<div class="arck-project-item position-relative two">
 						<div class="inner-img">
