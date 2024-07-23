@@ -104,51 +104,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4 col-md-6">
-						<div class="arck-service-item-2 position-relative">
-							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
-							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
-								<img src="assets/icon/ic14.png" alt="">
-							</div>
-							<div class="inner-text headline pera-content">
-								<h3><a href="">3D Animation</a></h3>
-								<p>Prepare to meet the one and only For
-									the WordPress theme perfect for both offer in the corporate ativeects.
-								</p>
-								<a class="read-more-btn text-uppercase" href="service-details.html">Read more <i class="fal fa-arrow-right"></i></a>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-md-6">
-						<div class="arck-service-item-2 position-relative">
-							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
-							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
-								<img src="assets/icon/ic15.png" alt="">
-							</div>
-							<div class="inner-text headline pera-content">
-								<h3><a href="">House Renovation</a></h3>
-								<p>Prepare to meet the one and only For
-									the WordPress theme perfect for both offer in the corporate ativeects.
-								</p>
-								<a class="read-more-btn text-uppercase" href="service-details.html">Read more <i class="fal fa-arrow-right"></i></a>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-md-6">
-						<div class="arck-service-item-2 position-relative">
-							<span class="service-shape position-absolute"><img src="assets/img/shape/ser-icon1.png" alt=""></span>
-							<div class="inner-icon d-flex justify-content-center align-items-center position-relative">
-								<img src="assets/icon/ic16.png" alt="">
-							</div>
-							<div class="inner-text headline pera-content">
-								<h3><a href="">Ideas & Inspiration</a></h3>
-								<p>Prepare to meet the one and only For
-									the WordPress theme perfect for both offer in the corporate ativeects.
-								</p>
-								<a class="read-more-btn text-uppercase" href="service-details.html">Read more <i class="fal fa-arrow-right"></i></a>
-							</div>
-						</div>
-					</div>
+					
 				</div>
 			</div>
 		</div>
