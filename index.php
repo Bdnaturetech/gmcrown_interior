@@ -261,15 +261,13 @@
 					<img src="assets/icon/ar-pr2.png" alt="">
 				</div> -->
 				<div class="project-text headline-2 pera-content">
-					<h3>Creative Design & Digital
-						Soulktion</h3>
-					<p>We build and activate brands through cultural insight
-						str vision, and the power of </p>
+					<h3>window blind</h3>
+					<p>We gave you the best of our services that meets your desires </p>
 					<a href="project">See More <i class="fal fa-long-arrow-right"></i></a>
 				</div>
 				<div class="hover-item">
 					<div class="inner-img">
-						<img src="assets/img/project/curtain3.png" alt="">
+						<img src="assets/img/project/p22.jpg" alt="">
 					</div>
 					<div class="inner-text position-absolute">
 						<div class="inner-icon-serial d-flex align-items-center">
@@ -281,8 +279,7 @@
 							</div>
 						</div>
 						<div class="inner-title headline-2">
-							<h3>Creative Design & Digital
-								Soulktion</h3>
+							<h3>window blind</h3>
 							<a href="project">See More <i class="fal fa-long-arrow-right"></i></a>
 						</div>
 					</div>
@@ -292,19 +289,15 @@
 				<div class="img-bg position-absolute">
 					<img src="assets/img/project/pro-bg.png" alt="">
 				</div>
-				<div class="project-icon">
-					<img src="assets/icon/ar-pr2.png" alt="">
-				</div>
+				
 				<div class="project-text headline-2 pera-content">
-					<h3>Creative Design & Digital
-						Soulktion</h3>
-					<p>We build and activate brands through cultural insight
-						str vision, and the power of </p>
+					<h3>House & Exterior </h3>
+					<p>We gave you the best of our services that meets your desires</p>
 					<a href="project">See More <i class="fal fa-long-arrow-right"></i></a>
 				</div>
 				<div class="hover-item">
 					<div class="inner-img">
-						<img src="assets/img/project/curtain4.png" alt="">
+						<img src="assets/img/project/p12.jpg" alt="">
 					</div>
 					<div class="inner-text position-absolute">
 						<div class="inner-icon-serial d-flex align-items-center">
@@ -316,8 +309,7 @@
 							</div>
 						</div>
 						<div class="inner-title headline-2">
-							<h3>Creative Design & Digital
-								Soulktion</h3>
+							<h3>House & Exterior</h3>
 							<a href="project">See More <i class="fal fa-long-arrow-right"></i></a>
 						</div>
 					</div>
@@ -331,8 +323,7 @@
 					<img src="assets/icon/ar-pr2.png" alt="">
 				</div>
 				<div class="project-text headline-2 pera-content">
-					<h3>Creative Design & Digital
-						Soulktion</h3>
+					<h3>Interiors </h3>
 					<p>We build and activate brands through cultural insight
 						str vision, and the power of </p>
 					<a href="project">See More <i class="fal fa-long-arrow-right"></i></a>
@@ -343,16 +334,13 @@
 					</div>
 					<div class="inner-text position-absolute">
 						<div class="inner-icon-serial d-flex align-items-center">
-							<div class="inner-icon">
-								<img src="assets/icon/ar-pr1.png" alt="">
-							</div>
+							
 							<div class="inner-serial">
 								03
 							</div>
 						</div>
 						<div class="inner-title headline-2">
-							<h3>Creative Design & Digital
-								Soulktion</h3>
+							<h3>Interiors </h3>
 							<a href="project">See More <i class="fal fa-long-arrow-right"></i></a>
 						</div>
 					</div>
@@ -366,15 +354,14 @@
 					<img src="assets/icon/ar-pr2.png" alt="">
 				</div>
 				<div class="project-text headline-2 pera-content">
-					<h3>Creative Design & Digital
-						Soulktion</h3>
+					<h3>Creative 3D Design </h3>
 					<p>We build and activate brands through cultural insight
 						str vision, and the power of </p>
 					<a href="project">See More <i class="fal fa-long-arrow-right"></i></a>
 				</div>
 				<div class="hover-item">
 					<div class="inner-img">
-						<img src="assets/img/project/curtain6.png" alt="">
+						<img src="assets/img/project/p9.jpg" alt="">
 					</div>
 					<div class="inner-text position-absolute">
 						<div class="inner-icon-serial d-flex align-items-center">
@@ -386,8 +373,7 @@
 							</div>
 						</div>
 						<div class="inner-title headline-2">
-							<h3>Creative Design & Digital
-								Soulktion</h3>
+							<h3>Creative 3D Design </h3>
 							<a href="project">See More <i class="fal fa-long-arrow-right"></i></a>
 						</div>
 					</div>
