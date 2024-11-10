@@ -90,7 +90,7 @@
 				<div class="row">
 					<div class="col-lg-3">
 						<div class="archx-feature-img_2 position-relative  wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
-							<img src="assets/img/about/curtain1.png" alt="">
+							<img src="assets/img/about/curtain1.jpg" alt="">
 							<span class="archx-ft-shape position-absolute"><img src="assets/img/shape/ar-ft-sh.png" alt=""></span>
 							<div class="award-wining-text position-absolute">
 								<span>customer</span> satisfaction
@@ -239,7 +239,7 @@
 					</div>
 					<div class="col-lg-5">
 						<div class="archx-faq-img-wrap wow fadeInRight" data-wow-delay="200ms" data-wow-duration="1500ms">
-							<img src="assets/img/about/curtain2.png" alt="">
+							<img src="assets/img/about/curtain2.jpg" alt="">
 						</div>
 					</div>
 				</div>
